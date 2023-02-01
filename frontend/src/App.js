@@ -11,11 +11,11 @@ function App() {
           'Content-Type': 'application/json'
         },
         body: {
-          firstName: "Amar",
-          lastName: "Hadzi Ahmetovikj",
-          email: "amar_hadziahmetovik@hotmail.com",
+          firstName: "Petko",
+          lastName: "Petkov",
+          email: "testmail@gmail.com",
           password: "test123",
-          phone: "070826080",
+          phone: "123456789",
           address: "adresa"
         }
       });
